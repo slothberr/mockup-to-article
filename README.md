@@ -1,8 +1,9 @@
 # Mockup to Article
 
-##Project Overview##
+### Project Overview
 
 This project practices HTML syntax by converting a mockup of a blog article into a real website. 
+
 
 
 **View the final website here!**
