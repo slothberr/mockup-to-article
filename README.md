@@ -1,4 +1,5 @@
 # Mockup to Article
+This is the very first project for the Udacity Google Challenge Scholarship for Front-End Web Development. 
 
 ### Project Overview
 
